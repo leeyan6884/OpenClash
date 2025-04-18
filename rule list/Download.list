@@ -22,6 +22,8 @@ PROCESS-NAME,downloadservice
 PROCESS-NAME,downloadservice.exe
 PROCESS-NAME,fdm
 PROCESS-NAME,fdm.exe
+PROCESS-NAME,115
+PROCESS-NAME,115.exe
 PROCESS-NAME,folx
 PROCESS-NAME,folx.exe
 PROCESS-NAME,nettransport
